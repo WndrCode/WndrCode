@@ -38,7 +38,7 @@ That’s pretty much it ;)
 
 I’ve been studying new technologies in depth because of the fast-paced changes happening due to the popularity of LLMs.
 
-I don’t want to become someone who only generates code with AI. I believe it’s necessary to deeply understand your field before relying too much on these tools.
+I don’t want to become someone who only generates code with AI. I believe it’s necessary to deeply understand your field so you don't end up relying too much on these tools.
 
 Because of that, I’ve been trying to keep up with new technologies while still making sure I can work independently without depending entirely on LLMs.
 
