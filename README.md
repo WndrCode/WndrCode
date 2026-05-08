@@ -1,7 +1,7 @@
 <h1 align="center">WndrCode</h1>
 
 <p align="center">
-  backend dev · java · spring boot · learning things as I go
+  backend developer · java · spring boot · learning things as I go
 </p>
 
 <p align="center">
@@ -12,15 +12,14 @@
 
 ## 👋 about me
 
-I like building backend stuff and figuring out how systems work.
+I enjoy building backend applications and learning new languages.
 
-Most of the time I’m:
-- writing Java
-- working with Spring Boot
-- breaking my own code
-- fixing it again
+I previously worked as an English instructor before starting my journey in programming.
+At the moment, I can speak 5 languages, and I’ve been coding in Java with Spring Boot.
 
-Still learning. Still improving.
+I try to learn a new concept every day so I can be prepared for any situation that requires it.
+
+That’s pretty much it ;)  
 
 ---
 
@@ -37,10 +36,11 @@ Still learning. Still improving.
 
 ## 🧠 what I’m doing right now
 
-- learning how backend systems behave in real life  
-- building small projects (like PayFlow)  
-- trying to write cleaner code than yesterday  
-- figuring things out as I go
+I’ve been studying new technologies in depth because of the fast-paced changes happening due to the popularity of LLMs.
+
+I don’t want to become someone who only generates code with AI. I believe it’s necessary to deeply understand your field before relying too much on these tools.
+
+Because of that, I’ve been trying to keep up with new technologies while still making sure I can work independently without depending entirely on LLMs.
 
 ---
 
